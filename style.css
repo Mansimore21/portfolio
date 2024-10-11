@@ -18,9 +18,9 @@ section{
   min-height: 100vh;
   display: flex;
   align-items: center;
- background: url('bg.jpg') no-repeat;
+ background: url('bg.jpg') no-repeat center center;
+background-size: cover;  /* Ensures the background covers the entire area */
 
-  background-size: cover;
   background-position: center;
   background-attachment: fixed;
 }
