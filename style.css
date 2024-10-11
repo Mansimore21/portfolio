@@ -18,7 +18,8 @@ section{
   min-height: 100vh;
   display: flex;
   align-items: center;
- background: url('bg.jpg') no-repeat center center;
+ background: url('bg.jpg') no-repeat;
+
 background-size: cover;  /* Ensures the background covers the entire area */
 
   background-position: center;
